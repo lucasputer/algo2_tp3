@@ -1,0 +1,652 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Es",
+				"Estacion_"
+			],
+			[
+				"a",
+				"aString"
+			],
+			[
+				"res",
+				"Restriccion"
+			],
+			[
+				"es",
+				"estacion1"
+			],
+			[
+				"_",
+				"_map"
+			],
+			[
+				"S",
+				"Siguiente"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"it",
+				"itColaPrior"
+			],
+			[
+				"rur",
+				"rurActual"
+			],
+			[
+				"iter",
+				"iteradorSendas"
+			],
+			[
+				"est",
+				"estaciones"
+			],
+			[
+				"cant",
+				"cantInfracciones"
+			],
+			[
+				"estacion",
+				"estacion2"
+			],
+			[
+				"esta",
+				"estacion1"
+			],
+			[
+				"estac",
+				"estacion1"
+			],
+			[
+				"ES",
+				"Estacion"
+			],
+			[
+				"ac",
+				"actual_"
+			],
+			[
+				"actua",
+				"actual_"
+			],
+			[
+				"cons",
+				"const_Iterador"
+			],
+			[
+				"der",
+				"derecha"
+			],
+			[
+				"iz",
+				"izquierda"
+			],
+			[
+				"N",
+				"Nodo"
+			],
+			[
+				"cab",
+				"cabeza_"
+			],
+			[
+				"Cre",
+				"CrearIt"
+			],
+			[
+				"A",
+				"Actual"
+			],
+			[
+				"pa",
+				"padre"
+			],
+			[
+				"her",
+				"hermano"
+			],
+			[
+				"hijo",
+				"hijoIzq"
+			],
+			[
+				"hij",
+				"hijoDer"
+			],
+			[
+				"pad",
+				"padreObj"
+			],
+			[
+				"padr",
+				"padreObj"
+			],
+			[
+				"da",
+				"dato"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"ca",
+				"cabeza_"
+			],
+			[
+				"l",
+				"longitud_"
+			],
+			[
+				"no",
+				"nodo"
+			],
+			[
+				"pri",
+				"primerDerecha"
+			],
+			[
+				"p",
+				"padre"
+			],
+			[
+				"de",
+				"derecha"
+			],
+			[
+				"for",
+				"forceLevantar"
+			],
+			[
+				"iDam",
+				"iDamePadre"
+			],
+			[
+				"ita",
+				"itabh"
+			],
+			[
+				"iCrear",
+				"iCrearIt"
+			],
+			[
+				"rest",
+				"restrnodo"
+			],
+			[
+				"ver",
+				"iVerifica"
+			],
+			[
+				"retr",
+				"restrnodo"
+			],
+			[
+				"arra",
+				"arraySize"
+			],
+			[
+				"in",
+				"inPlace"
+			],
+			[
+				"primer",
+				"primerDerecha"
+			],
+			[
+				"prim",
+				"primerDerecha"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/base/Driver.cpp",
+			"settings":
+			{
+				"buffer_size": 4162,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/base/Driver.h",
+			"settings":
+			{
+				"buffer_size": 2687,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/base/test.cpp",
+			"settings":
+			{
+				"buffer_size": 28864,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/modulos/Mapa.h",
+			"settings":
+			{
+				"buffer_size": 2638,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/aed2/Lista.h",
+			"settings":
+			{
+				"buffer_size": 14009,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/modulos/Ciudad.h",
+			"settings":
+			{
+				"buffer_size": 5406,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: flechita"
+			],
+			[
+				"recon",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"conso",
+				"Set Syntax: R Console"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lucas/Documents/Facu/algo2_tp3/src/aed2/aed2.h",
+		"/Users/lucas/Documents/Facu/algo2_tp3/src/modulos/Ciudad.h",
+		"/Users/lucas/Documents/Facu/algo2_tp3/src/modulos/ColaPrior.h",
+		"/Users/lucas/Documents/Facu/algo2_tp3/src/modulos/Mapa.h",
+		"/Users/lucas/Documents/Facu/algo2_tp3/src/aed2/Conj.h",
+		"/Users/lucas/Documents/Facu/algo2_tp3/src/modulos/conjString.h",
+		"/Users/lucas/Documents/Facu/algo2_tp3/src/aed2/Lista.h",
+		"/Users/lucas/Documents/Facu/algo2_tp3/src/aed2/Vector.h",
+		"/Users/lucas/Documents/Facu/algo2_tp3/src/modulos/diccString.h",
+		"/Users/lucas/Documents/Facu/algo2_tp3/src/base/test.cpp",
+		"/Users/lucas/Documents/Facu/algo2_tp3/src/aed2/Dicc.h",
+		"/Users/lucas/Documents/Facu/algo2_tp3/src/aed2/TiposBasicos.h",
+		"/Users/lucas/Documents/Facu/algo2_tp3/src/modulos/algo2_tp3.sublime-project",
+		"/Users/lucas/Downloads/tallerPosta.asm",
+		"/Users/lucas/Downloads/taller_oc1.asm",
+		"/Users/lucas/Downloads/taller_oc1 Tamborindeguy Guido.asm",
+		"/Users/lucas/Desktop/taller_oc1.asm",
+		"/Users/lucas/Documents/Facu/tp3/modulo_mapa.tex",
+		"/Users/lucas/Documents/Facu/tp3/modulo_conjunto.tex",
+		"/Users/lucas/Documents/Facu/tp3/modulo_cola_prioridad.tex",
+		"/Users/lucas/Documents/Facu/tp3/modulo_diccString.aux",
+		"/Users/lucas/Documents/Facu/tp3/aed2-tad.sty",
+		"/Users/lucas/Library/Application Support/Sublime Text 2/Packages/User/odeuno.sublime-snippet",
+		"/Users/lucas/Library/Application Support/Sublime Text 2/Packages/User/flechita.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Driver",
+			"Siguiente",
+			"RestriccionATP",
+			"longitud_",
+			"vectorAConj",
+			"friend",
+			"CrearIt",
+			"const_Iterador",
+			"result",
+			"Desencolar",
+			"ConjString",
+			"agregarComo",
+			"agregarAdel",
+			"Lista",
+			"Fin",
+			".da",
+			"nodo_siguiente_",
+			"colaPrior_",
+			"primero_",
+			"lista_",
+			"esper",
+			"conjalis",
+			"conj",
+			"it",
+			"itEli",
+			"it",
+			"boolean",
+			"sectio",
+			"$\\leftarrow",
+			"// O(1)  \\\\",
+			"// O(1) \\\\",
+			"O(1)",
+			"$",
+			"mathescap",
+			"TipoFuncio",
+			"TipoFunciomathescap",
+			"hijo_der",
+			"hijo_izq",
+			"hermano_a_der",
+			"padre_obj",
+			"array_size",
+			"colaPrior("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"conjString",
+			"siguiente_",
+			"cola_",
+			"cabeza_",
+			"colaPrior_",
+			"bool",
+			"'$\\leftarrow$'",
+			"'\\ote{1}'",
+			"hijoDer",
+			"hijoIzq",
+			"hermanoADer",
+			"padreObj",
+			"arraySize",
+			"abh("
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/base/Driver.cpp",
+					"settings":
+					{
+						"buffer_size": 4162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/base/Driver.h",
+					"settings":
+					{
+						"buffer_size": 2687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								499,
+								499
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/base/test.cpp",
+					"settings":
+					{
+						"buffer_size": 28864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12972,
+								12972
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/modulos/Mapa.h",
+					"settings":
+					{
+						"buffer_size": 2638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2426,
+								2454
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/aed2/Lista.h",
+					"settings":
+					{
+						"buffer_size": 14009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8072,
+								8081
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6438.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/modulos/Ciudad.h",
+					"settings":
+					{
+						"buffer_size": 5406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 145.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"aed2/aed2.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
